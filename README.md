@@ -55,8 +55,19 @@
 
 
 
+### Диаграмма Use case:
+![UseCase диаграмма](./img/Use case.png)
+
+
+
+
 ### Диаграмма ER:
-![ER диаграмма](./img/man.png)
+![ER диаграмма](./img/man.PNG)
+
+
+
+### Диаграмма Состояний:
+![StateMashine](./img/StateMashine.png)
 
 
 
