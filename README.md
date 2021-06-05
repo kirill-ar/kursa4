@@ -51,7 +51,7 @@
 
 
 
-### Диаграмма UseCase:
+### Диаграмма Use Case:
 ![UseCase диаграмма](./img/Use case.png)
 
 
