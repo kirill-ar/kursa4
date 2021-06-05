@@ -52,7 +52,7 @@
 
 
 ### Диаграмма Use case:
-![UseCase диаграмма](./img/Usecase.png)
+![UseCase диаграмма](./img/Use case.png)
 
 
 
