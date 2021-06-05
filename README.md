@@ -52,7 +52,7 @@
 
 
 ### Диаграмма ER:
-![ER диаграмма](./img/man.png)
+![ER диаграмма](./img/Моя.png)
 
 
 
@@ -68,6 +68,7 @@
 
 
 ```xml
+  
  <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="150"/>
@@ -233,9 +234,13 @@
         </Grid>
     </Grid>
 </Window>
+
+```
+
 #### Пример Логики главной страницы:
 
 ```cs
+
 namespace kirill2._0
 {
     public partial class Product
@@ -486,10 +491,12 @@ namespace kirill2._0
 
     }
 }
+
 ```
 
 #### Прмер кода разметки страницы редактирования и добавления услуг:
 ```xml
+
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="auto"/>
@@ -530,6 +537,7 @@ namespace kirill2._0
 ## Создание библиотеки классов и Юнит тестов
 ### Библиотека классов
 ```cs
+
 namespace UnitTestProject1
 {
     [TestClass]
@@ -574,6 +582,7 @@ namespace UnitTestProject1
         }
     }
 }
+
 ```
 ### Юнит тесты (Сделал токлько 2)
 
