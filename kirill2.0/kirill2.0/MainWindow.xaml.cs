@@ -245,6 +245,12 @@ namespace kirill2._0
         private void DelOrd_Click(object sender, RoutedEventArgs e)
         {
             var item = ProductListView.SelectedItem as Product;
+            if (item == null)
+            {
+                MessageBox.Show("Не выбран элемент");
+                return;
+            }
+
             Core.DB.Product.Remove(item);
             Core.DB.SaveChanges();
             ServiceList = Core.DB.Product.ToList();
@@ -254,6 +260,12 @@ namespace kirill2._0
         private void EditOrder_Click(object sender, RoutedEventArgs e)
         {
             var SelectedOrder = ProductListView.SelectedItem as Product;
+            if (SelectedOrder == null)
+            {
+                MessageBox.Show("Не выбран элемент");
+                return;
+            }
+
             var EditOrderWindow = new CreateWindow(SelectedOrder);
             if ((bool)EditOrderWindow.ShowDialog())
             {

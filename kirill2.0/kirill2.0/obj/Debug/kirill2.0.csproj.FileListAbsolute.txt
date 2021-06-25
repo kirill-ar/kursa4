@@ -22,3 +22,27 @@ C:\Users\User\source\repos\kirill2.0\kirill2.0\obj\Debug\kirill2.0.exe
 C:\Users\User\source\repos\kirill2.0\kirill2.0\obj\Debug\kirill2.0.pdb
 C:\Users\User\source\repos\kirill2.0\kirill2.0\obj\Debug\CreateWindow.g.cs
 C:\Users\User\source\repos\kirill2.0\kirill2.0\obj\Debug\CreateWindow.baml
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\bin\Debug\kirill2.0.exe.config
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\bin\Debug\kirill2.0.exe
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\bin\Debug\kirill2.0.pdb
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\bin\Debug\EntityFramework.dll
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\bin\Debug\EntityFramework.xml
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0.csprojAssemblyReference.cache
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\CreateWindow.g.cs
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\MainWindow.g.cs
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\App.g.cs
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0_Content.g.cs
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0_MarkupCompile.cache
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0_MarkupCompile.lref
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\CreateWindow.baml
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\MainWindow.baml
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0.g.resources
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2._0.Properties.Resources.resources
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0.csproj.GenerateResource.cache
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0.csproj.CoreCompileInputs.cache
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0.csproj.CopyComplete
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0.exe
+C:\Users\Kirk Novos\Desktop\Git\git\kursa4\kirill2.0\kirill2.0\obj\Debug\kirill2.0.pdb
